@@ -1,0 +1,1 @@
+Just a Golang Practice code. Nothing fancy.
