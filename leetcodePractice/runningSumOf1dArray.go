@@ -10,3 +10,5 @@ func runningSum(nums []int) []int {
 
 	return result
 }
+
+runningSum([1, 2, 3, 4])
